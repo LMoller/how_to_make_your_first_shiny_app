@@ -1,0 +1,12 @@
+name: Census_Low_Resp
+title: Census_Low_Resp
+username:
+account: lmol50
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1862064
+bundleId: 2829057
+url: https://lmol50.shinyapps.io/Census_Low_Resp/
+when: 1582658452.78822
+asMultiple: FALSE
+asStatic: FALSE
