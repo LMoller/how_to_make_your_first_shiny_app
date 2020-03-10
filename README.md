@@ -1,6 +1,10 @@
-# how_to_make_your_first_shiny_app
+# Three examples of How to Make a Shiny App
 
-shiny cheatsheet from: https://shiny.rstudio.com/images/shiny-cheatsheet.pdf
+no_file app is the most basic.
 
+with_file_and_table has a bit more. Pulls data from a file and creates a table also.
 
+Census
 Census app hosted at: https://lmol50.shinyapps.io/Census_Low_Resp/
+
+Shiny Cheatsheet from: https://shiny.rstudio.com/images/shiny-cheatsheet.pdf
